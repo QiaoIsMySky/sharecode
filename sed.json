@@ -1,1 +1,23 @@
+#东东农场:
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/JD_Fruit.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/JD_Fruit.json/g'
 
+#东东萌宠
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/jd_pet.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/jd_pet.json/g'
+
+#健康社区
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/jd_health.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/jd_health.json/g'
+
+#种豆得豆
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/JD_bean.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/JD_bean.json/g'
+
+#京喜工厂
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/jxfactory.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/jxfactory.json/g'
+
+#疯狂的joy
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/jd_crazy_joy.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/jd_crazy_joy.json/g'
+
+#京东工厂
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/jd_factory.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/jd_factory.json/g'
+
+#京喜农场
+sed -i 's/https:\/\/raw.githubusercontent.com\/inoyna11\/jd28\/master\/backUp\/total\/jxnc.json/https:\/\/raw.githubusercontent.com\/QiaoIsMySky\/sharecode\/main\/jxnc.json/g'
